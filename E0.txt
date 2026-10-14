@@ -1,4 +1,3 @@
-Aqui tens a descrição de todos os Casos de Uso (E0) em texto corrido, formatada de forma contínua para poderes copiar e colar diretamente num documento Word ou Google Docs sem listas com marcas de assinalação.
 
 Descrição dos Casos de Uso (E0)
 
